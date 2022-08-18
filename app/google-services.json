@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104428117082",
+    "firebase_url": "https://koka-chat-2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "koka-chat-2",
+    "storage_bucket": "koka-chat-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104428117082:android:5b9a5f21f3665f6fcc8c63",
+        "android_client_info": {
+          "package_name": "com.example.kokachat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104428117082-vulcqsu6ldel408hgs4ilgs2ul1jrn4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcu7cKLtsJz2AzuNPnXiUk63eftOvTv-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104428117082-vulcqsu6ldel408hgs4ilgs2ul1jrn4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
