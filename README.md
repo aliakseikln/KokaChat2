@@ -26,20 +26,24 @@ Written in Kotlin implements the Jetpack libraries, Firebase services.
 
 ## Screenshots preview
  <table>
-  <tr>
+<tr>
     <th>Splash Screen</th>
     <th>Contact Screen</th>
     <th>Account Detail Screen</th>
-    <th>Contact Screen</th>
-    <th>Сhat Screen</th>
-  </tr>
-  <tr>
+<tr>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185348955-520571f8-0487-4191-a95a-1df9eefbbb44.png" width="60%" height="60%"></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185348996-c59833c4-d39d-4f51-97cc-2afa5fabcf0c.png" width="60%" height="60%"></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185349042-3100680a-2db2-4428-87ad-b4f5a8b28458.png" width="60%" height="60%"></td>
+<tr>
+    <th>Contact Screen</th>
+    <th>List of your chat</th>
+    <th>Сhat Screen</th>
+<tr>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185349070-1001bd65-f639-4068-831d-0b83e886de46.png" width="60%" height="60%"></td>
-    <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185548376-3bcee3de-4642-4c2c-9931-6c1583f121d3.jpg" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185549326-1aed83cb-d969-4537-b934-fcc046860198.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185549649-4437ea24-2a63-4700-92a6-25f45d54af74.png" width="60%" height="60%"></td>
   </tr>
+  
 </table>
 
 ## Libraries and technologies used.
