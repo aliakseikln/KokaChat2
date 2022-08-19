@@ -1,11 +1,13 @@
 ![image](https://user-images.githubusercontent.com/48939805/185547314-9c29beca-1baa-4500-8930-3d5ae03c123d.png)
 
 
-A simple free chat application here you can find new friends and chat with them with stickers!
-
-When I decided what to write for a pet project application I was inspired by messaging & social media apps.
+A simple free chat application where you can find new friends and chat with them with cool stickers!
 
 Written in Kotlin implements the Jetpack libraries, Firebase services.
+
+### Reasons for creating:
+When I decided what to write for a pet project application I was inspired by messaging & social media apps.
+
 
 
 
