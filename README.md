@@ -10,19 +10,19 @@ Written in Kotlin implements the Jetpack libraries, Firebase services.
 
 
 ## What I learned while developing the application:
-* Firebase: 
+* [Firebase](https://firebase.google.com/): 
   - Authentication (Phone) - Authorization in the application by phone number
   - Cloud Firestore - Application users data
   - Realtime Database - Storage of all messages
   - Cloud Storage - Storage of all images 
-* Swipe to Refresh
-  - Easily update the data with a down swipe
-* Emoji KeyBoard 
+* [Swipe to Refresh](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout)
+  - Update the data with a down swipe
+* [Emoji KeyBoard](https://github.com/vanniktech/Emoji)
   - Adds a cool set of emoji to the app   
-* Lottie-animation
+* [Lottie-animation](https://github.com/airbnb/lottie-android)
   - Animation in the application
-* country-code-picker
-  - Provides an easy way to search and select country or country phone code for the telephone number.
+* [Country-code-picker](https://github.com/hbb20/CountryCodePickerProject)
+  - Search and select country or country phone code for the telephone number.
 
 ## Screenshots preview
  <table>
@@ -31,12 +31,14 @@ Written in Kotlin implements the Jetpack libraries, Firebase services.
     <th>Contact Screen</th>
     <th>Account Detail Screen</th>
     <th>Contact Screen</th>
+    <th>Сhat Screen</th>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185348955-520571f8-0487-4191-a95a-1df9eefbbb44.png" width="60%" height="60%"></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185348996-c59833c4-d39d-4f51-97cc-2afa5fabcf0c.png" width="60%" height="60%"></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185349042-3100680a-2db2-4428-87ad-b4f5a8b28458.png" width="60%" height="60%"></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185349070-1001bd65-f639-4068-831d-0b83e886de46.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185548376-3bcee3de-4642-4c2c-9931-6c1583f121d3.jpg" width="60%" height="60%"></td>
   </tr>
 </table>
 
