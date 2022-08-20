@@ -55,7 +55,7 @@ When I decided what to write for a pet project application I was inspired by mes
 - [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) - Handle everything related for in-app navigation.
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Allows you to more easily write code that interacts with views. 
 - [Firebase](https://firebase.google.com/) - It provide backend services for the app. It has realtime database, auth, storage, and more.
-  - [Authentication](https://firebase.google.com/docs) - Allows an app to securely save user data in the cloud.
+  - [Authentication](https://firebase.google.com/docs/auth) - Allows an app to securely save user data in the cloud.
   - [Cloud Firestore](https://firebase.google.com/docs/firestore) - Flexible, scalable NoSQL cloud database to store and sync data.
   - [Cloud Storage](https://firebase.google.com/docs/storage) - Store and serve user-generated content. 
 - [FlexboxLayout](https://github.com/google/flexbox-layout) - A library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
