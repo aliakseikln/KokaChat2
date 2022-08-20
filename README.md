@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/48939805/185547314-9c29beca-1baa-4500-8930-3d5ae03c123d.png)
 
 
-A simple free chat application where you can find new friends and chat with them with cool stickers!
+A simple free chat application where you can find new friends and chat with them with cool emoji!
 
-Written in Kotlin implements the Jetpack libraries, Firebase services.
+Implemented in Kotlin using the Jetpack libraries and Firebase services.
 
 ### Reasons for creating:
 When I decided what to write for a pet project application I was inspired by messaging & social media apps.
@@ -11,7 +11,7 @@ When I decided what to write for a pet project application I was inspired by mes
 
 
 
-## What I learned while developing the application:
+## Case Study:
 * [Firebase](https://firebase.google.com/): 
   - Authentication (Phone) - Authorization in the application by phone number
   - Cloud Firestore - Application users data
@@ -26,10 +26,10 @@ When I decided what to write for a pet project application I was inspired by mes
 * [Country-code-picker](https://github.com/hbb20/CountryCodePickerProject)
   - Search and select country or country phone code for the telephone number.
 
-## Screenshots preview
+## Screenshots
  <table>
 <tr>
-    <th>Splash Screen</th>
+    <th>Welcome Screen</th>
     <th>Contact Screen</th>
     <th>Account Detail Screen</th>
 <tr>
@@ -50,9 +50,9 @@ When I decided what to write for a pet project application I was inspired by mes
 
 ## Libraries and technologies used.
 - Minimum SDK level 27 
-- [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - Do some code in the background.
+- [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) -Background code execution.
 - [Coil](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
-- [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) - Handle everything needed for in-app navigation.
+- [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) - Handle everything related for in-app navigation.
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Allows you to more easily write code that interacts with views. 
 - [Firebase](https://firebase.google.com/) - It provide backend services for the app. It has realtime database, auth, storage, and more.
   - [Authentication](https://firebase.google.com/docs) - Allows an app to securely save user data in the cloud.
