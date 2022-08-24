@@ -33,7 +33,7 @@ When I decided what to write for a pet project application I was inspired by mes
     <th>Contact Screen</th>
     <th>Account Detail Screen</th>
 <tr>
-    <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185348955-520571f8-0487-4191-a95a-1df9eefbbb44.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/186502333-70712de2-b2a4-4705-8288-1ef95fd8afd2.jpg" width="60%" height="60%"></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185348996-c59833c4-d39d-4f51-97cc-2afa5fabcf0c.png" width="60%" height="60%"></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185349042-3100680a-2db2-4428-87ad-b4f5a8b28458.png" width="60%" height="60%"></td>
 <tr>
@@ -45,7 +45,8 @@ When I decided what to write for a pet project application I was inspired by mes
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185549326-1aed83cb-d969-4537-b934-fcc046860198.png" width="60%" height="60%"></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/48939805/185549649-4437ea24-2a63-4700-92a6-25f45d54af74.png" width="60%" height="60%"></td>
   </tr>
-  
+ 
+
 </table>
 
 ## Libraries and technologies used.
