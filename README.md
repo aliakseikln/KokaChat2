@@ -13,18 +13,21 @@ When I decided what to write for a pet project application I was inspired by mes
 
 ## Case Study:
 * [Firebase](https://firebase.google.com/): 
-  - Authentication (Phone) - Authorization in the application by phone number
-  - Cloud Firestore - Application users data
-  - Realtime Database - Storage of all messages
-  - Cloud Storage - Storage of all images 
+  - How to make authorization in the application by phone number 
+  - how to create application users data
+  - How to storage of all messages
+  - How to storage of all images 
 * [Swipe to Refresh](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout)
-  - Update the data with a down swipe
+  - How to setup SwipeRefreshLayout. create OnRefreshListener.
+  - How to setup Recyclerview With Data.
+  - How to set Listener to SwipeRefreshLayout.
+  - How to update the data with a down swipe
 * [Emoji KeyBoard](https://github.com/vanniktech/Emoji)
-  - Adds a cool set of emoji to the app   
+  - How to add Emoji to the app
 * [Lottie-animation](https://github.com/airbnb/lottie-android)
-  - Animation in the application
+  - How to add animation in the app
 * [Country-code-picker](https://github.com/hbb20/CountryCodePickerProject)
-  - Search and select country or country phone code for the telephone number.
+  - How to add ccp view to xml layout
 
 ## Screenshots
  <table>
