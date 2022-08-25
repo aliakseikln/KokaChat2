@@ -51,7 +51,7 @@ When I decided what to write for a pet project application I was inspired by mes
 
 ## Libraries and technologies used.
 - Minimum [SDK](https://developer.android.com/studio/releases/platform-tools) level 27 
-- [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) -Background code execution.
+- [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - Background code execution.
 - [Coil](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
 - [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) - Handle everything related for in-app navigation.
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Allows you to more easily write code that interacts with views. 
